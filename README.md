@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm Divyam 👋
 
-<!--
-**divyam1101/divyam1101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Scientist / Machine Learning practitioner** working with Python, R and SQL to turn messy business data into models and decisions.
 
-Here are some ideas to get you started:
+- 🔭 Interests: predictive modelling, tabular deep learning, business analytics
+- 🛠️ Tools: Python (pandas, scikit-learn, XGBoost, PyTorch), R (tidyverse, caret), SQL, Jupyter, Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⭐ Featured projects
+
+| Project | What it shows |
+|---|---|
+| [**Airbnb Price Prediction**](https://github.com/divyam1101/AirbnbPricePrediction) | Price model across Amsterdam, Berlin and Paris, tested on unseen London. XGBoost vs TabNet vs Random Forest. Best validation R² 0.75 |
+| [**Data Science Case Studies (R)**](https://github.com/divyam1101/Data-Science) | 7 business case studies: employee attrition (logistic regression), car pricing (linear regression), digit recognition (SVM), credit risk EDA, Uber supply-demand, Bitcoin forecasting (ARIMA) |
+| [**AI Algorithms in Java**](https://github.com/divyam1101/AI-Data-Science) | A*, BFS/DFS, genetic algorithms, simulated annealing, tabu search, PSO and a neural network implemented from scratch |
